@@ -4,7 +4,7 @@
 
 * Support for LSP and [nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
 * Support for [GitSigns](https://github.com/lewis6991/gitsigns.nvim)
-* Treesiter syntax highlighting
+* Treesitter syntax highlighting
 
 ## Screenshots
 
